@@ -1,6 +1,7 @@
 # MACN_Projetcs_DIO_LAB3
 Lab 3 do Bootcamb de MACN (Microsoft Azure Cloud Native)
 
+#### Aviso: Este código foi fornecido pelo instrutor do curso de Microsoft Azure Cloud Native na plataforma DIO. O código original foi fornecido pelo instrutor Henrique Eduardo Souza e pode ser acessado no seguinte repositório:https://github.com/digitalinnovationone/Microsoft_Application_Platform
 
 Publicando seu App no Azure Container Apps com Azure CLI
 Este guia mostra como subir uma imagem Docker para o Azure Container Registry (ACR) e executá-la no Azure Container Apps.
